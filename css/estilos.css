@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/093/696/non_2x/vector-yellow-abstract-background.jpg');
+    background-size: auto 100vh;
+    heigth: 100vh;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+    color: black;
+  }
+  
+  .site-title,
+  .site-subtitle {
+    text-align: center;
+    
+  }
